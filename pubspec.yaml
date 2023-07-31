@@ -1,0 +1,50 @@
+name: clean_arch_bookly_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.5.0
+  go_router: ^10.0.0
+  google_fonts: ^5.1.0
+  dartz: ^0.10.1
+  dio: ^5.3.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_bloc: ^8.1.3
+  get_it: ^7.6.0
+  cached_network_image: ^3.2.3
+
+dev_dependencies:
+  hive_generator: ^2.0.0
+  build_runner: ^2.4.6
+
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+
+  fonts:
+    - family: GT Sectra Fine
+      fonts:
+        - asset: assets/fonts/GT Sectra Fine Regular.ttf
+
+
