@@ -1,4 +1,4 @@
-# Book App
+# Book App with Bloc State Management and Clean Architecture
 
 Book App is a Flutter-based application designed for browsing, viewing, and downloading books. It features a pagination mechanism for efficient loading of book data. The app categorizes books, allows users to explore similar books, and utilizes the Bloc pattern for state management. Clean Architecture principles guide the project structure, and Dio library is employed for seamless communication with the API , Hive library is used for caching data, ensuring a smooth user experience even when offline.
 
