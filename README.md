@@ -19,7 +19,7 @@ Book App is a Flutter-based application designed for browsing, viewing, and down
 - **Hive:** Hive library is used for local data caching, providing a smooth user experience even when offline.
 - **Bloc Library:** Bloc pattern is employed for state management, ensuring a clean and predictable flow of data within the application.
 - **Dio:** Dio library is used for making network requests, interacting with the API efficiently.
--  
+
 ## Usage
 
 Book App is designed to provide users with a seamless experience for browsing, viewing, and downloading books. The clean architecture and efficient state management contribute to a maintainable and scalable codebase.
